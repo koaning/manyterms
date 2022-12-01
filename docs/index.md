@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/koaning/manyterms/main/docs/many.svg" width="125" height="125" align="right" />
 
-# manyterms 
-
 The goal of this project is to collect lists of terms that might be used for: 
 
 - weak labelling
